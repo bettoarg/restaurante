@@ -193,8 +193,6 @@ header .textos h3 {
 }
 
 .main .galeria .foto img {
-    /*width: 480px; /*línea de código agregada por mí para unificar el tamaño de las imágenes*/
-    /*height: 480px; /*línea de código agregada por mí para unificar el tamaño de las imágenes*/
     width: 100%;
     vertical-align: top;
     opacity: .7;
